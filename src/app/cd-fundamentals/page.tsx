@@ -17,7 +17,7 @@ export default function Page() {
         Continuous Integration (CI) and Continuous Deployment (CD) are essential software development practices. They aim to streamline development workflows, reduce manual intervention, and enable faster delivery of features.
       </p>
 
-      {/* Table of Contents */}
+      {/* Could change to min navbar... */}
       <div className="mt-8">
         <h2 className="text-2xl font-semibold">Table of Contents</h2>
         <ul className="list-disc pl-6 mt-4">
@@ -62,7 +62,7 @@ export default function Page() {
         </ul>
       </section>
 
-      {/* Additional Resources */}
+      {/* Additional Resources - Find links for this in a future mvp */}
       <section id="resources" className="mt-8">
         <h2 className="text-3xl font-semibold">Additional Resources</h2>
         <p className="mt-4">Check out these resources to deepen your understanding of CI/CD:</p>
