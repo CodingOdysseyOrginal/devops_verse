@@ -7,7 +7,6 @@ import Link from "next/link";
 import { Moon, Sun } from "lucide-react";
 
 export default function Navbar() {
-  // Set up dark mode with toggle
   const [darkMode, setDarkMode] = useState(false);
 
   return (
